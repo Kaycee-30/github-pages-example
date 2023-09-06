@@ -41,7 +41,7 @@
 
 .join-button:hover {
   background-color: rgb(6, 95, 212);
-  color: white;
+  color: gray;
 }
 
 .join-button:active {
